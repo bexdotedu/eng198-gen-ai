@@ -1,6 +1,8 @@
 # eng198-gen-ai
 ENGIN 198 - Gen AI Project
 
+SEE HERE FOR BETTER FORMATTING: https://docs.google.com/document/d/1FKOqJSY1tOY9YudVLcvJyx0cT1Q2plexz1LIKCQtKug/edit?usp=sharing
+
 Problem and Objectives
 What is our specific use case?
      - General-purpose transcription (e.g., meetings, lectures).
